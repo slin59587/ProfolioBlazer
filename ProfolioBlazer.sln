@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfolioBlazer", "ProfolioBlazer\ProfolioBlazer\ProfolioBlazer.csproj", "{4348DF78-FBCE-4A5C-95C1-BAB5BDDBC067}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfolioBlazer.Client", "ProfolioBlazer\ProfolioBlazer.Client\ProfolioBlazer.Client.csproj", "{1C2838F4-2F7A-4BF7-B8B6-7B9458B6604D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4348DF78-FBCE-4A5C-95C1-BAB5BDDBC067}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4348DF78-FBCE-4A5C-95C1-BAB5BDDBC067}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4348DF78-FBCE-4A5C-95C1-BAB5BDDBC067}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4348DF78-FBCE-4A5C-95C1-BAB5BDDBC067}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C2838F4-2F7A-4BF7-B8B6-7B9458B6604D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C2838F4-2F7A-4BF7-B8B6-7B9458B6604D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C2838F4-2F7A-4BF7-B8B6-7B9458B6604D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C2838F4-2F7A-4BF7-B8B6-7B9458B6604D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {725EFA1D-A3E8-4781-B80A-CF8C623AE54C}
+	EndGlobalSection
+EndGlobal
